@@ -172,7 +172,7 @@ async function starts() {
 			switch(command) {
 				case 'help':
 				case 'menu':
-				case 'darkmenu"':
+				case 'darkmenu':
 					client.sendMessage(from, help(prefix), text)
 					break
 				case 'info':
