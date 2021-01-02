@@ -11,5 +11,5 @@ wget -O ~/../usr/share/tessdata/ind.traineddata "https://github.com/tesseract-oc
 npm install
 npm start
 
-echo "[*] All dependencies have been installed, please run the command \"npm start\" to immediately start the script"
+echo "[*] Todas as dependências foram instaladas, execute o comando \ "npm start \" para iniciar imediatamente o script"
 
